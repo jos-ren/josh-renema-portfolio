@@ -13,18 +13,24 @@ min-height: 100vh;
 const Box = styled.div`
 display:flex;
 margin: 20px;
+align-items:center;
+justify-content:center;
+height:auto;
 flex-direction:column;
 @media (min-width: 600px) {
     margin: 2.5vh 5vw 2.5vh 5vw;
     flex-direction:column;
+    height:auto;
 }
 @media (min-width: 900px) {
     margin: 2.5vh 5vw 2.5vh 5vw;
     flex-direction:row;
+    height:75vh;
 }
 @media (min-width: 1100px) {
     margin: 5vh 10vw 5vh 10vw;
     flex-direction:row;
+    height:75vh;
 }
 `;
 

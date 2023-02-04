@@ -140,7 +140,6 @@ p {
 
     .left {
         width: 100vw;
-        /* border: 1px solid red; */
     }
 
     .right {
@@ -153,19 +152,16 @@ p {
     .role {
         width: 50%;
         margin-left: 20px;
-        /* border: 1px solid red; */
     }
 
     .frameworks {
         width: 50%;
         margin-left: 20px;
-        /* border: 1px solid red; */
     }
 
     .timeline {
         width: 50%;
         margin-left: 20px;
-        /* border: 1px solid red; */
     }
 
 }
